@@ -17,3 +17,4 @@ members:
 - Moji
 
 signed : no
+cli : test
